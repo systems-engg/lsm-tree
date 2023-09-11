@@ -1,5 +1,7 @@
 # LSM Tree demo project
 
+## Update
+1. Reading material : https://github.com/dashjay/mini-lsm-go/tree/main
 
 ## API
 
